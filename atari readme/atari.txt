@@ -1,0 +1,160 @@
+
+Instructions : Place ATARI.WAD in your Doom2 folder.
+               From within your Doom2 folder type:
+                 DOOM2 -FILE ATARI.WAD  <return>
+
+=======================================================================
+Title                   : ATARI.WAD
+Date                    : 3/20/95   Version 1.0
+Author                  : Greg LaBrec
+Email Address           : 
+Misc. Author Info       : Director of Creative Services 
+                             at Atari Corporation
+Description             : Complete reconstruction of main Atari Corporate
+                             offices.  Includes .BMP legends so you can
+                             find the offices of your favorite (or not
+                             so favorite) Atari employees and Executives.
+                             Try for a perfect score -- I DARE YA!
+Additional Credits to   : id Software -- Isn't it obvious?
+                          Sandy LaBrec -- For putting up with me
+                          Bill Rehbock -- Turning me onto Doom2
+                          Jack V. -- Author of DeeP Doom Editor
+                          Tal Funke-Bilu -- Tester
+                          Mike Fulton -- Tester
+                          Fragman -- Sounds borrowed from Kaos
+                          Author of RSOUND.WAD
+=======================================================================
+* Type of DOOM II file*
+New level WAD           : Yes
+
+* Play Information *
+Map #                   : Map 01 & Map 02
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Music               : No
+New Graphics            : Yes
+Demos Replaced          : No
+
+* Construction *
+Base                    : New level from scratch
+Build Time              : About 6 weeks + Testing
+Primary Editor(s) used  : DeeP
+                          DCK 2.0
+Other programs used     : WinTex, DeuTex, DoomCAD, DeepBSP, RMB
+Known Bugs              : Runs very close to 256 2-side line limit in some
+                             areas. May occasionally produce some HOM effects.
+Minimum System Recmnd.  : 486/66
+Doom Version            : Tested with 1.7
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels,
+nor may it be edited in any way without permission from the author.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+------------------------------------------------------------------------
+
+LEVEL 1
+Start: On balcony, outside main conference room.
+
+What the hell happened?  You only called 1-800-GO-ATARI to order the latest Jaguar game and suddenly, ZAPPP!  You find yourself in Sunnyvale California, at Atari's Corporate headquarters.  But wait, is this Atari-- or is this Hell?  No, it's-- A T A R I   H E L L   ! ! !
+
+You're going to have to dive into the wild world of the Atari game testers and artists before you even have a chance at getting off the second floor.  The blue key is somewhere back in their area.  
+ 
+After securing the blue key you can tackle the programming and engineering sections.  Be sure to visit Leonard(2) and give your regards.  I hear they're working on designing a new rocket launcher in the lab.
+
+When you have the yellow key you can take on the Executives.  You'll find the CFO, the CEO, and God knows what.  Don't forget to stop by the legal department(4).  You know what to do to lawyers.  Then stop by and say hi to Sam(6) and Jack(7).  Laury(8) wouldn't want to be left out.  
+
+Tired of wrestling with those staircases?  After you grab the red key, if you have any breath left in your body, you can crawl to the elevator and take it down to the lower level.
+
+LEGEND FOR LEV1_MAP.BMP -----
+
+RED: Game Testing Dept.
+PURPLE: Art Dept.
+GRAY: Engineering
+LT. BLUE: Programming
+DK. BLUE: Purchasing 
+LT. GREEN: Bathrooms
+DK. GREEN: Finance
+YELLOW: Utilities
+ORANGE: Storage
+
+ 1: Main Executive Conference Room
+ 2: Leonard Tramiel
+ 3: Engineering Lab
+ 4: Craig Harding - Legal
+ 5: Augie Liguori - CFO
+ 6: Sam Tramiel
+ 7: Jack Tramiel
+ 8: Laury Scott
+ 9: Lynn Latz
+10: John Skruch
+11: Jon Correll
+12: Ted Tahquechi
+13: Sean Patten
+14: Document Control
+15: Computer Maintenance
+16: Video Digitizing
+17: Faran Thomason
+18: Tom Gillen
+19: Meeting Room
+20: Gene Dias - MIS
+21: Purple Hampton
+22: Lunch Room
+
+------------------------------------------------------------------------
+
+LEVEL 2
+Start: Inside elevator on lower level
+
+Be careful when you get off the elevator.  You face one of your biggest challenges and they seem to made out of old Atari 2600 and 7800 parts.  If you can stay alive you'll need to start hunting for the blue key.
+
+What's the matter?  Can't find the yellow key in the dark?  Help's available if you can find it.
+
+Now if you can just get a hold of that red key, you'd be able to leave the building.  Watch out for impromptu press conferences.
+
+Whew! You're outside.  You probably noticed through the windows in back that the exit is in the back of the building.  Hey, who put those walls there?  "Master, there's three nasty looking switches over there!".
+
+LEGEND FOR LEV2_MAP.BMP -----
+
+LT. BLUE: Customer Service
+LT. GREEN: Bathrooms
+YELLOW: Utilities
+ORANGE: Storage
+
+ 1: Lobby
+ 2: Downstairs Conference Room
+ 3: Ron Beltramo
+ 4: Garry Tramiel
+ 5: Bill Rehbock
+ 6: Greg LaBrec -- ME!
+ 7: J Patton
+ 8: Don Thomas
+ 9: Francois Bertrand
+10: Mike Fulton
+11: Normen Kowalewski
+12: Scott Sanders
+13: Shirley Taylor - Sales
+14: Sandy LaBrec
+15: Barbara Benson - Customer Service
+16: Paul Foster / Hans-Martin Krober - Music
+17: Music Lab
+18: Mark Castillo - Facilities
+19: James Grunke
+20: John Mathieson
+21: Old Graphic Arts area
+22: Mainframe Computer
+23: Darkroom
+24: Workout Room
+25: FCC Testing
+26: Press Conference Room
+27: Video Production
